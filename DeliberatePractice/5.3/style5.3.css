@@ -1,0 +1,15 @@
+p{
+    color:red
+}
+.att{
+    font-size: 20px
+}
+#only{
+    color: green;
+}
+li[value="3"]{
+    color: green;
+}
+*{
+    text-align: center;
+}
